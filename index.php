@@ -1,5 +1,6 @@
+
 <!DOCTYPE html>
-<!-- saved from url=(0070)http://slides.com/gsklee/angularjs-a-brief-introduction/fullscreen#/22 -->
+<!-- saved from url=(0070)https://slides.com/gsklee/angularjs-a-brief-introduction/fullscreen#/22 -->
 <html class="sl-root decks fullscreen mz-applicationcache mz-history mz-localstorage mz-svg mz-opacity mz-rgba mz-backgroundsize mz-cssanimations mz-csstransforms mz-csstransforms3d mz-csstransitions mz-flexbox mz-flexboxlegacy mz-fullscreen loaded ua-mac ua-chrome has-visible-scrollbars reveal-is-ready wf-oxygen-n4-active wf-merriweathersans-n4-active wf-active fonts-are-ready"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 		<meta charset="utf-8">
@@ -10,9 +11,9 @@
 		<meta name="description" content="Slides">
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-		<link href="http://assets.slid.es/assets/slides/slides-3cad3fcc3b17d21d10abdb14272418e0.css" media="all" rel="stylesheet">
-		<link href="http://assets.slid.es/assets/application-d871bef2607ef9ddce7849f396e9d41e.css" media="all" rel="stylesheet">
-		<link href="http://assets.slid.es/assets/deck-v1-56acf8e0f796f1d102e33b94e30c3784.css" media="all" rel="stylesheet">
+		<link href="https://assets.slid.es/assets/slides/slides-3cad3fcc3b17d21d10abdb14272418e0.css" media="all" rel="stylesheet">
+		<link href="https://assets.slid.es/assets/application-d871bef2607ef9ddce7849f396e9d41e.css" media="all" rel="stylesheet">
+		<link href="https://assets.slid.es/assets/deck-v1-56acf8e0f796f1d102e33b94e30c3784.css" media="all" rel="stylesheet">
 
 
 <style id="user-css-output" type="text/css">
