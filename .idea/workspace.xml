@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee3fd75d-fd83-469f-bf25-a3581e957f48" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/AngularJS_Slides.html" afterPath="$PROJECT_DIR$/AngularJS_Slides.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AngularJS_Slides.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="angular_js_presentation.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -98,6 +98,8 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ee3fd75d-fd83-469f-bf25-a3581e957f48" name="Default" comment="" />
+      <created>1438851129411</created>
+      <updated>1438851129411</updated>
     </task>
     <servers />
   </component>
